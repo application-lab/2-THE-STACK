@@ -1,5 +1,5 @@
 # Assignment 2: The Stack
-Due Monday, September 16
+Due Wednesday, September 18
 
 # Instructions
 1. Click on the github classroom link in the `lab-2` channel
